@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
  * factorial - Write a function that returns the factorial of a given number.
  *
